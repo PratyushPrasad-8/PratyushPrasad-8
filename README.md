@@ -1,31 +1,89 @@
-# 💫 About Me:
-Contributing to open-source Android development projects<br>Involved in an internship at AstroHeal, focusing on Front End<br><br>Android app development<br>Machine learning projects<br><br>Optimization techniques for machine learning models<br>Best practices for deploying Android apps<br><br>Android development<br>Machine learning<br>My experience leading a team at Smart India Hackathon (SIH)<br><br>I love exploring new programming languages and often participate in hackathons!
+<div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+  <!-- About Me Section -->
+  <section style="background-color: #f4f4f9; padding: 20px; border-radius: 10px;">
+    <h1>Hi 🔆, I'm Pratyush</h1>
+    <!-- Visit Counter -->
+  <section style="margin-top: 20px; text-align: center;">
+    <p>
+      <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=PratyushPrasad-8&icon=0&color=0" alt="Visit Counter" />
+      </a>
+    </p>
+  </section>
+    <p>
+      Contributing to open-source Android projects and currently interning at AstroHeal, focusing on Front End.<br>
+      Experienced in Android app development, machine learning, and optimization techniques for ML models.<br>
+      Passionate about best practices for deploying Android apps and exploring new technologies.<br>
+      Led a team at Smart India Hackathon (SIH), gaining valuable leadership experience.<br>
+      Avid hackathon participant, always eager to learn new programming languages.
+    </p>
+  </section>
 
+  <!-- Tech Stack Section -->
+  <section style="background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
+    <h2>💻 Tech Stack:</h2>
+    <p>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin: 5px;" />
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="margin: 5px;" />
+      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin: 5px;" />
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin: 5px;" />
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" style="margin: 5px;" />
+      <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" style="margin: 5px;" />
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" style="margin: 5px;" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="margin: 5px;" />
+      <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" style="margin: 5px;" />
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;" />
+      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" style="margin: 5px;" />
+    </p>
+  </section>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nexus_being) 
+  <!-- Random Dev Quote Section -->
+  <section style="background-color: #fff7f7; padding: 20px; margin-top: 20px; border-radius: 10px;">
+    <h2>✍️ Quote to keep it up</h2>
+    <p>
+      <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" alt="Dev Quote" />
+    </p>
+  </section>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PratyushPrasad-8&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PratyushPrasad-8&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushPrasad-8&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Socials Section -->
+  <section>
+    <h2>🌐 Socials:</h2>
+    <p style="margin:50px;">
+      <a href="https://instagram.com/_nexus_being">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="margin-right: 10px;" />
+      </a>
+      <a href="https://linkedin.com/in/https://www.linkedin.com/in/pratyushprasadcse/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;" />
+      </a>
+      <a href="https://x.com/Nexus_Being_">
+        <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
+      </a>
+    </p>
+  </section>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PratyushPrasad-8&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <!-- GitHub Stats Section -->
+  <section style="margin-top: 20px; padding: 20px; background-color: #edf7ff; border-radius: 10px;">
+    <h2>📊 GitHub Stats:</h2>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api?username=PratyushPrasad-8&theme=neon&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" /><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratyushPrasad-8&theme=neon&hide_border=false" alt="GitHub Streak" /><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushPrasad-8&theme=neon&hide_border=false&include_all_commits=false&count
+  </section>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+  <!-- Top Contributed Repo Section -->
+  <section style="background-color: #e7f4ff; padding: 20px; margin-top: 20px; border-radius: 10px;">
+    <h2>🔝 Top Contributed Repo:</h2>
+    <p>
+      <img src="https://github-contributor-stats.vercel.app/api?username=PratyushPrasad-8&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+    </p>
+  </section>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PratyushPrasad-8&limit=5&theme=neon&combine_all_yearly_contributions=true)
+  <!-- GitHub Trophies Section -->
+  <section style="background-color: #f0f0f5; padding: 20px; border-radius: 10px;">
+    <h2>🏆 GitHub Trophies:</h2>
+    <p>
+      <img src="https://github-profile-trophy.vercel.app/?username=PratyushPrasad-8&theme=neon&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    </p>
+  </section>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=PratyushPrasad-8&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Coding Geek) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
