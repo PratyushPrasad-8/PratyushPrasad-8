@@ -1,10 +1,10 @@
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
   <section>
-   <img align="center" alt="Coder GIF" height=400 width=400 src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" />
+   <img align="center" alt="Coder GIF" height=300 width=300 src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" />
   </section>
   <!-- About Me Section -->
   <section style="background-color: #f4f4f9; padding: 20px; border-radius: 10px;">
-    <h1>Hi 🔆, I'm Pratyush</h1>
+    <h1>Hi 🔆, I'm Pratyush <img align="center" alt="Coder GIF" height=35 width=35 src="https://camo.githubusercontent.com/9fd2c024a247a44434ed1c44c7c2fc2481e3333b4192330e2ae61ccfcac19d47/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" /></h1>
     <!-- Visit Counter -->
   <section style="margin-top: 20px; text-align: center;">
     <p>
@@ -14,11 +14,11 @@
     </p>
   </section>
     <p>
-      Contributing to open-source Android projects and currently interning at AstroHeal, focusing on Front End.<br>
-      Experienced in Android app development, machine learning, and optimization techniques for ML models.<br>
-      Passionate about best practices for deploying Android apps and exploring new technologies.<br>
-      Led a team at Smart India Hackathon (SIH), gaining valuable leadership experience.<br>
-      Avid hackathon participant, always eager to learn new programming languages.
+      >Contributing to open-source Android projects and currently interning at AstroHeal, focusing on Front End.<br>
+      >Experienced in Android app development, machine learning, and optimization techniques for ML models.<br>
+      >Passionate about best practices for deploying Android apps and exploring new technologies.<br>
+      >Led a team at Smart India Hackathon (SIH), gaining valuable leadership experience.<br>
+      >Avid hackathon participant, always eager to learn new programming languages.
     </p>
   </section>
 
