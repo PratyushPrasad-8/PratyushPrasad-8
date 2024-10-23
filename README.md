@@ -1,6 +1,6 @@
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
   <section>
-   <img align="center" alt="Coder GIF" height=300 width=300 src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" />
+   <img align="center" alt="Coder GIF" height=300 width=600 src="https://initialcommit.com/img/initialcommit/javascript-mouse-tracking-eye-effect.gif"/>
   </section>
   <!-- About Me Section -->
   <section style="background-color: #f4f4f9; padding: 20px; border-radius: 10px;">
