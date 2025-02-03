@@ -5,14 +5,6 @@
   <!-- About Me Section -->
   <section style="background-color: #f4f4f9; padding: 20px; border-radius: 10px;">
     <h1>Hi 🔆, I'm Pratyush <img align="center" alt="Coder GIF" height=35 width=35 src="https://camo.githubusercontent.com/9fd2c024a247a44434ed1c44c7c2fc2481e3333b4192330e2ae61ccfcac19d47/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" /></h1>
-    <!-- Visit Counter -->
-  <section style="margin-top: 20px; text-align: center;">
-    <p>
-      <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=PratyushPrasad-8&icon=0&color=0" alt="Visit Counter" />
-      </a>
-    </p>
-  </section>
     <p>
       >Contributing to open-source Android projects and currently interning at AstroHeal, focusing on Front End.<br>
       >Experienced in Android app development, machine learning, and optimization techniques for ML models.<br>
