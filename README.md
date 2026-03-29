@@ -50,9 +50,6 @@
       <a href="https://linkedin.com/in/https://www.linkedin.com/in/pratyushprasadcse/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;" />
       </a>
-      <a href="https://x.com/Nexus_Being_">
-        <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
-      </a>
     </p>
   </section>
 
@@ -60,25 +57,8 @@
   <section style="margin-top: 20px; padding: 20px; background-color: #edf7ff; border-radius: 10px;">
     <h2>📊 GitHub Stats:</h2>
     <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=PratyushPrasad-8&theme=neon&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" /><br/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratyushPrasad-8&theme=neon&hide_border=false" alt="GitHub Streak" /><br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushPrasad-8&theme=neon&hide_border=false&include_all_commits=false&count
-  </section>
-
-  <!-- Top Contributed Repo Section -->
-  <section style="background-color: #e7f4ff; padding: 20px; margin-top: 20px; border-radius: 10px;">
-    <h2>🔝 Top Contributed Repo:</h2>
-    <p>
-      <img src="https://github-contributor-stats.vercel.app/api?username=PratyushPrasad-8&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-    </p>
-  </section>
-
-  <!-- GitHub Trophies Section -->
-  <section style="background-color: #f0f0f5; padding: 20px; border-radius: 10px;">
-    <h2>🏆 GitHub Trophies:</h2>
-    <p>
-      <img src="https://github-profile-trophy.vercel.app/?username=PratyushPrasad-8&theme=neon&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-    </p>
   </section>
 </div>
 
